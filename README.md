@@ -3,7 +3,7 @@
 
 > [ 사용된 센서 및 보드 ]
 >* Raspberry Pi 3 - Client
->* Pi Cammera
+>* Pi Camera
 >* Dot Matrix
 >* A to D Convertor
 >* MQ-2 Gas Sensor
