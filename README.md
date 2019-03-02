@@ -2,12 +2,12 @@
 > 본 시스템은 흡연구역에 대한 집중적인 관리와 간접 흡연에 대한 피해를 방지하고자 개발하였습니다.
 
 > [ 사용된 센서 및 보드 ]
->* Raspberry Pi 3 - Client
+>* Raspberry Pi 3 = *Client*
 >* Pi Camera
 >* Dot Matrix
 >* A to D Convertor
 >* MQ-2 Gas Sensor
->* Artik 520 - Server
+>* Artik 520 = *Server*
 
 ### 기능 정리
 > **Client**
